@@ -8,3 +8,4 @@ openModal.addEventListener('click', ()=> {
 closeModal.addEventListener('click', ()=> {
     modal.close();
 })
+ 
